@@ -33,7 +33,7 @@ Buscando sempre evoluir e contribuir com projetos open source 🚀
 
 ## 📫 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/rafael-garcia-9a2610301/)
+- [LinkedIn](https://www.linkedin.com/in/rafael-rodrigues-garcia/)
 - [Twitter](https://twitter.com/rafamamu)
 - [Portfólio](https://rafamamu.dev)
 
